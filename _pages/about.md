@@ -7,7 +7,7 @@ author_profile: true
 
 # Junteng Liu
 
-Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, supervised by Professor Junxian He. He graduated from Shanghai Jiao Tong University (SJTU) in June 2024. His research focuses on natural language processing and machine learning.
+Junteng Liu is a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, supervised by Professor Junxian He. Junteng Liu graduated from Shanghai Jiao Tong University (SJTU) in June 2024. Junteng Liu's research focuses on natural language processing and machine learning.
 
 ## Academic Background
 
